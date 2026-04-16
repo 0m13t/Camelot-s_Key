@@ -1,0 +1,8 @@
+torch
+librosa
+numpy
+customtkinter
+tkinterdnd2
+pydub
+mutagen
+tqdm
